@@ -1,1 +1,0 @@
-console.log("Hello, world! This is my first GitHub project - from Kof.");
